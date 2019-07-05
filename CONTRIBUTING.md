@@ -15,6 +15,6 @@ There are many ways you can help us make this project better. Every repository i
 - **documentation-needed**: support us finding gramer issues, making new topics, and update the documetantion
 - **bug-high-priority**: discover and raise bug warning for critical bug issues
 - **bug-low-priority**:  discover and raise bug warning for low bug issues
-- **help-wanted**: 
+- **help-wanted**: areas where we want some help
 
 You can also help by translating documentation and reviewing open pull requests.
