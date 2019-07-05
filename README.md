@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+a Probot is a nice app that shows a welcom message to users who has sucessfully then their first Pull request and merge
 
 ## What it does
 
-FEATURES PLACEHOLDER
+-1
+-2
+-3
+-4 
 
 ## Getting started
 
